@@ -44,6 +44,7 @@ Here are :
 - [Iman] (https://github.com/iman2153)
 - [Latif Fetahaj] (https://github.com/latiffetahaj/)
 - [Hassan Kazeem]
+- testing with auto merge
 - [Sean Crumley](https://github.com/907VigiL)
 - [Ukpa Uchechi](https://github.com/uchechiukpa)
 -[Apoorva Mamindla](https://github.com/ApoorvaM16)
